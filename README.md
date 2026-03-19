@@ -2,7 +2,7 @@
 
 Build UTM-tagged campaign URLs with live preview and a parameter breakdown table, entirely in the browser.
 
-**Live Demo:** https://file-converter-free.com/en/seo-tools/utm-generator
+**Live Demo:** https://file-converter-free.com/en/seo-tools/utm-generator-online
 
 ## How It Works
 
